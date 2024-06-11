@@ -1,0 +1,6 @@
+scripts/logs
+logs/
+taming_transformers.egg-info
+__pycache__
+my_data
+outputs
